@@ -1,0 +1,159 @@
+{
+    "cruiseSpeed": 16,
+    "firmwareType": 3,
+    "groundStation": "QGroundControl",
+    "hoverSpeed": 4,
+    "items": [
+        {
+            "autoContinue": true,
+            "command": 22,
+            "coordinate": [
+                37.80363777,
+                -122.46252545,
+                50
+            ],
+            "doJumpId": 1,
+            "frame": 2,
+            "params": [
+                15,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.80363353,
+                -122.46341057,
+                50
+            ],
+            "doJumpId": 2,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.80399804,
+                -122.46368416,
+                50
+            ],
+            "doJumpId": 3,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.80444308,
+                -122.46342667,
+                50
+            ],
+            "doJumpId": 4,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.80463382,
+                -122.46236451,
+                50
+            ],
+            "doJumpId": 5,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.80426083,
+                -122.46158131,
+                50
+            ],
+            "doJumpId": 6,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 16,
+            "coordinate": [
+                37.8038497,
+                -122.46131845,
+                25
+            ],
+            "doJumpId": 7,
+            "frame": 3,
+            "params": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        },
+        {
+            "autoContinue": true,
+            "command": 21,
+            "coordinate": [
+                37.80341737,
+                -122.46203728,
+                0
+            ],
+            "doJumpId": 8,
+            "frame": 3,
+            "params": [
+                25,
+                0,
+                0,
+                0
+            ],
+            "type": "SimpleItem"
+        }
+    ],
+    "plannedHomePosition": [
+        37.803784,
+        -122.462276,
+        0
+    ],
+    "vehicleType": 1,
+    "version": 2
+}
